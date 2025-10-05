@@ -1,0 +1,9 @@
+com\agence\location\test\java\TestConnection.class
+com\agence\location\model\Location.class
+com\agence\location\test\TestConnection.class
+com\agence\location\model\Role.class
+com\agence\location\dao\ConfigurationParkingDAO.class
+com\agence\location\model\ConfigurationParking.class
+com\agence\location\model\Voiture.class
+com\agence\location\model\Utilisateur.class
+com\agence\location\model\StatutVoiture.class
